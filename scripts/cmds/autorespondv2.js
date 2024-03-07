@@ -25,15 +25,15 @@ const emojis = {
 "😸": ["pill", "laugh", "lt ", "blague", "huy", "hoy"],
 "⏳": ["prodia", "sdxl", "bardv3", "tanongv2", "-imagine", "genimg", "Tanongv4", "kamla", "-shortcut"],
 "👋": ["salut", "bonjour", "c v"],
-"🌊": ["ok", "cool", "bien", "super", "d'accord", "génial", "merveille"],
+"☣️": ["Gab", "cool", "bien", "super", "d'accord", "génial", "merveille"],
 };
 
 // Replies to specific words
 const replies = {
-"Bye": "A+ tard 🌸😘...",
-"muaah": "💋🌷 bisous ",
-"kaiz": "De aona ? ",
-"who is you lover ?": "𝗧𝗛𝗘𝗔🌷 𝗶𝘀 𝗺𝘆 𝗘𝘃𝗲𝗿𝘆𝘁𝗵𝗶𝗻𝗴🌸"};
+"Bye": "bye bye po",
+"muaah": "💋🌷 mwa ugh",
+"Gab": "owner koyan",
+"who is you lover ?": "Sofia is my everything "};
 
 // React based on words
 for (const [emoji, words] of Object.entries(emojis)) {
